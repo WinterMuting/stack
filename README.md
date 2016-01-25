@@ -10,4 +10,4 @@ not putting stuff in writing didn't go so well. <br>
 <br><ul>
 <li>gathering edu resources and non-prof rel. formal FAQ</li>
 <li>Use whatever it takes to plan and execute. Including  common sense, if ncessary</li>
-</ul>
+</ul><br>#whatif<br><i>What would it take to make them tickable, here on GH?</i>
