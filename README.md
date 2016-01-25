@@ -20,7 +20,7 @@ not putting stuff in writing didn't go out very well. But WHY? <br>
 MONDAY DELIGHT:<BR>
 WEB HOOK<BR>
 ENCRYPTION <BR>
-PROTOCOLE<BR>
+PROTOCOL<BR>
 INSTANCE<BR>
 API<BR>
 #GEAR<br>
@@ -34,3 +34,18 @@ CLOUD - APP ENGINE FOR NOW, suitable for:
 <br>tests
 <br>amp/semantic ready
 <br>>LOCAL SERVER<BR>
+<script>
+
+HEY, I'M GETTING REALLY GOOD AT THIS, HUH?
+<br>sure. But analyze the following, just for fun:<br>
+#GEAR<br>
+>GNU WORKSPACE - TURN desktops into a handy, web-oriented... runtime is it? Environment 
+<br>> Editor<br>
+<h2>>framework</h2> a flexible one! SUITABLE FOR<br>
+CLOUD - APP ENGINE FOR NOW, suitable for:
+<br>planning
+<br>DEPLOYMENT
+<BR>built
+<br>tests
+<br>amp/semantic ready
+<br>>LOCAL SERVER<BR> </script>
