@@ -8,7 +8,7 @@ not putting stuff in writing didn't go out very well. But WHY? <br>
 <LI>TIPS PLUGGED INTO CHROME EXPL. THE INTERFACE/CODE/CONTEXT</LI> </ul><BR>
 <B>CHROME</B><BR>
 <UL>
-<LI><B>API</B></LI>
+<LI><B><a href="https://www.youtube.com/watch?v=YeftSsWEGG8">API</a></B></LI>
 <LI>TIPS PLUGGED INTO CHROME EXPL. THE INTERFACE/CODE/CONTEXT</LI>
 <H4>KEEP+CHROME? API?</H4>
 
