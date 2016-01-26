@@ -31,7 +31,8 @@ ENCRYPTION <BR>
 PROTOCOL<BR>
 INSTANCE<BR>
 API<BR>
-#GEAR<br><P><b>WHERE_DID_YOU_TAKE_THIS_SYLE_FROM?!</b></P>
+#GEAR<br>
+<P><b>WHERE_DID_YOU_TAKE_THIS_SYLE_FROM?</b></P>
 >GNU WORKSPACE - TURN desktops into a handy, web-oriented... runtime is it? Environment 
 <br>> Editor<br>
 <h2>>framework</h2> a flexible one! <br>
