@@ -9,8 +9,9 @@ not putting stuff in writing didn't go out very well. But WHY? <br>
 <B>CHROME</B><BR>
 <UL>
 <LI><B><a href="https://www.youtube.com/watch?v=YeftSsWEGG8">API</a></B></LI>
-<LI>TIPS PLUGGED INTO CHROME EXPL. THE INTERFACE/CODE/CONTEXT</LI>
-<H4>KEEP+CHROME? API?</H4>
+<LI>TIPS PLUGGED INTO CHROME EXPL. THE INTERFACE/CODE/CONTEXT</LI><br>
+<p>KEEP+CHROME? API?</p>
+<li><a href="https://photos.google.com/share/AF1QipObZOFg56_j77MCjs0DYMSyvBqXPARBri690kMNy4riPStLFc3YlkEAevJuqcSI8g?key=QlFDM3NYaXZyTmMwWWlQRGZfWEd6WXFoQWpUN2h3">ON SELECTION/HOVER?: HERE BE DRAGONS</a></li>
 
 </UL>
 #EDU
