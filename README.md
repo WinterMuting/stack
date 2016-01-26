@@ -44,7 +44,7 @@ CLOUD - APP ENGINE FOR NOW, suitable for:
 <br>>LOCAL SERVER<BR>
 
 
-HEY, I'M GETTING REALLY GOOD AT THIS, HUH?
+<code>HEY, I'M GETTING REALLY GOOD AT THIS, HUH?
 <br>sure. But analyze the following, just for fun:<br>
 #GEAR<br>
 >GNU WORKSPACE - TURN desktops into a handy, web-oriented... runtime is it? Environment 
@@ -56,4 +56,4 @@ CLOUD - APP ENGINE FOR NOW, suitable for:
 <BR>built
 <br>tests
 <br>amp/semantic ready
-<br>>LOCAL SERVER<BR> 
+<br>>LOCAL SERVER<BR> </code>
